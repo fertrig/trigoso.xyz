@@ -1,12 +1,9 @@
 ---
 title: "Development Grunt Tasks in a Heroku Production Environment"
 date: 2014-02-24
-datestr: "2014-02-24"
 draft: false
 slug: grunt-tasks-in-heroku
 ---
-
-{{< param datestr >}}
 
 We ran into a bit of a conflict between Gruntfile.js and package.json. The package.json file defines the npm packages that are used by the application and by Grunt. However, some of the grunt tasks only make sense to run in a development or test environment, but not in a production environment. Our package.json file was able to make this distinction but our Gruntfile.js wasn't.
 

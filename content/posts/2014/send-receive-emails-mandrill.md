@@ -1,12 +1,9 @@
 ---
 title: "Sending and Receiving Email using Mandrill"
 date: 2014-03-03
-datestr: "2014-03-03"
 draft: false
 slug: send-receive-emails-mandrill
 ---
-
-{{< param datestr >}}
 
 This post will show you how your NodeJS app can send and receive emails using Mandrill. It will show you how to setup the emails you send so that when your users reply to those emails, your application can process those replies.
 
