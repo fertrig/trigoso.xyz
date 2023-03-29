@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://trigoso.xyz"
 title = "fertrig"
 theme = "hugo-coder"
 languagecode = "en"
@@ -22,8 +22,8 @@ style = "github-dark"
   avatarurl = "images/fertrig.jpeg"
   #gravatar = "john.doe@example.com"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  favicon_32 = "/images/favicon-32.ico"
+  favicon_16 = "/images/favicon-16.ico"
 
   since = 2019
 

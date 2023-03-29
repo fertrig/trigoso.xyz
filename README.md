@@ -3,6 +3,9 @@
 hugo new posts/2023/some-new-post.md
 ```
 
+### Deploy
+Just push to main branch. It is hosted by render.com.
+
 ### Override templates
 #### Override partial templates
 Partial templates—like single page templates and list page templates—have a specific lookup order. However, partials are simpler in that Hugo will only check in two places:
