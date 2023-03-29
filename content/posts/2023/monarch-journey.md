@@ -5,14 +5,16 @@ draft: false
 slug: monarch-journey
 ---
 
+![Monarch](/images/monarch-journey.png)
+
 I have been working on [Monarch](https://monarchapp.io/) for the past couple of years.
 It has been exciting, challenging and frustrating. It has also
 been rewarding and uncomfortable. I had to learn and do things I hadn't done
 before. 
 
-It has been good.
+It has been a good journey.
 
-Here is a list of what I have been up to.
+Here is where this journey has taken me.
 
 ### Programming 
 Monarch is developer tool for Flutter developers, thus I had to get pretty good
@@ -29,7 +31,8 @@ done development on Linux so I had to learn the Linux ecosystem, and also learn 
 
 ### Automation
 Monarch needs to be built on macOS, Windows and Linux and also against many Flutter versions.
-The automation that manage those builds is powerful: it automatically runs a new build when 
+I wrote the automation to manage the Monarch builds.
+The automation is powerful: it automatically runs a new build when 
 a new Flutter version
 comes out, it runs builds on multiple platforms at the same time, it builds and deploys 
 Monarch binaries, it manages releases, etc.
@@ -48,6 +51,9 @@ Monarch is a developer tool. Thus, my priority has been the developer experience
 - It doesn't require sign-ups.
 - It's API is really small, which makes it very easy to learn. 
 - It is simple yet powerful.
+
+Pondering about the best developer experience and making tough choices based on 
+those constraints has been hard, rewarding and humbling.
 
 ### Architecture
 I spend a lot of time thinking about software architectures. I like seeing architectures 

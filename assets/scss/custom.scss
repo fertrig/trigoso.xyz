@@ -5,3 +5,12 @@
       text-transform: lowercase;
     }
 }
+
+.content {
+  article {
+    p {
+      text-align: left;
+      hyphens: manual;
+    }
+  }
+}

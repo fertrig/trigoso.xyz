@@ -25,7 +25,7 @@ params:
   favicon_32: /images/favicon-32.ico
   favicon_16: /images/favicon-16.ico
   images:
-    - images/fertrig-paracas-og.jpg
+    - images/fertrig-paracas-og.png
     - images/fertrig-red.png
   
   since: 2014
