@@ -1,0 +1,61 @@
+baseurl: https://trigoso.xyz
+title: fertrig
+theme: hugo-coder
+
+languagecode: en
+defaultcontentlanguage: en
+paginate: 20
+#disqusShortname: yourdiscussshortname
+
+markup:
+  highlight:
+    style: github-dark
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in md files
+
+params:
+  author: Fernando Trigoso
+  #info: red, green, blue
+  description: Fernando's blog, talks and more.
+  keywords: blog,developer,programming,talks
+  
+  avatarurl: images/fertrig.jpeg
+  #gravatar: john.doe@example.com
+  favicon_32: /images/favicon-32.ico
+  favicon_16: /images/favicon-16.ico
+  images:
+    - images/fertrig.jpeg
+  
+  since: 2014
+  enableTwemoji: false
+  colorScheme: auto
+  hidecolorschemetoggle: false
+  
+  customSCSS:
+    - scss/custom.scss
+  
+  social:
+    - name: Github
+      icon: fa fa-github fa-2x
+      weight: 1
+      url: https://github.com/fertrig/
+    - name: Twitter
+      icon: fa fa-twitter fa-2x
+      weight: 3
+      url: https://twitter.com/fertrig/
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+  author: authors
+
+menu:
+  main:
+    - name: blog
+      weight: 1
+      url: posts/
+    - name: talks
+      weight: 2
+      url: talks/
