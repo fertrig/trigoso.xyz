@@ -4,7 +4,12 @@ hugo new posts/2023/some-new-post.md
 ```
 
 ### Deploy
-Just push to main branch. It is hosted by render.com.
+Just push to main branch. It is hosted by render.com. Sometimes it 
+doesn't work so use deploy hook.
+
+```
+sh deploy.sh
+```
 
 ### Override templates
 #### Override partial templates

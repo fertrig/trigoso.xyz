@@ -4,3 +4,4 @@ resources/_gen/
 .vscode/
 
 .hugo_build.lock
+deploy.sh
