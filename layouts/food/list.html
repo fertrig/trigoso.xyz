@@ -1,0 +1,30 @@
+{{ define "content" }}
+<section class="container list">
+  <header>
+    <h1 class="title">
+      <a class="title-link" href="{{ .Permalink | safeURL }}">
+        Food
+      </a>
+    </h1>
+  </header>
+  {{ .Content }}
+  <ul>
+    {{ range .Pages }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a>
+
+      <!-- <p>{{ index .Resources 0 }}</p>
+      <img src="{{ index .Resources 0 }}" /> -->
+
+      <div style="width: 200px; height: 200px;">
+        {{ with .Resources.GetMatch "*.png" }}
+        <img src="data:{{ .MediaType.Type }};base64,{{ .Content | base64Encode }}" width="200">
+        {{ end }}
+      </div>
+
+      <!-- <p>{{ .Resources }}</p> -->
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

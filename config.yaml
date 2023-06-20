@@ -60,3 +60,6 @@ menu:
     - name: talks
       weight: 2
       url: talks/
+    - name: food
+      weight: 3
+      url: food/
