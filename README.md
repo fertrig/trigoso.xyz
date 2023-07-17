@@ -37,5 +37,15 @@ hugo server
 - I started using the Coder theme: https://github.com/luizdepra/hugo-coder/
 - Override css by using: assets/scss/custom.scss
 
-
-
+### Next
+I was working on the /food area.
+- git diff the previous two commits to see what I did then figure out next steps
+- I think I had the food page loading posts and rendering its images
+- tabs I had open:
+  - https://www.budgetbytes.com/peanut-butter-banana-smoothie/
+  - https://github.com/lgaida/mediumish-gohugo-theme
+  - https://gohugo.io/content-management/shortcodes/#readout
+  - https://discourse.gohugo.io/t/variables-in-markdown/7113
+  - https://gohugo.io/variables/page/
+  - https://gohugo.io/content-management/page-resources/
+  - https://gohugo.io/content-management/front-matter/
