@@ -3,6 +3,12 @@ title: "Talks"
 draft: false
 ---
 
+## Monarch Talks in NYC, DC, Lima and Charlotte
+From July 2023 to October 2023 I gave several Monarch talks to groups of Flutter
+developers. This was an amazing experience. The blog post below has more details 
+and pictures of the talks.
+
+- [Blog](/posts/2023/monarch-talks)
 
 ## Event Sourcing at Dropsource
 
