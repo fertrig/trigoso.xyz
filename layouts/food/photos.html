@@ -1,0 +1,10 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  <section class="container">
+    {{ range .Resources.Match "*.jpeg" }}
+      <img src="{{ .RelPermalink }}" width="{{ math.Mul .Width .75 }}" alt="">
+    {{ end }}
+  </section>
+{{ end }}

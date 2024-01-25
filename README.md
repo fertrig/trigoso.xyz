@@ -26,6 +26,10 @@ For example, to override the list.html of the posts section, you can add the ove
 
 ### Install
 1. Install hugo with homebrew
+2. Pull latest on git submodules (using themes/hugo-coder as git submodule)
+```sh
+git submodule update --init --recursive
+```
 
 
 ### Run server
