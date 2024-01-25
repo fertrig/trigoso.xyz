@@ -5,3 +5,4 @@ resources/_gen/
 
 .hugo_build.lock
 deploy.sh
+deploy-link.md

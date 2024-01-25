@@ -61,10 +61,10 @@ Set blender at minimum speed. Blend with baton at minimum speed until silky smoo
 
 ### Black beans
 
-black beans soaked over night
-1 onion, cut in quarters
-4 cloves of garlic
-Bay leaf
+- black beans soaked over night
+- 1 onion, cut in quarters
+- 4 cloves of garlic
+- Bay leaf
 
 Cover beans with water in a pot. Water should be 3/4” over the beans. Add onion, garlic and bay leaf. Bring to boil. Cover with lid. Reduce heat to simmer. Let it cook for 1 hour or 1.5 hour until it thickens and beans are cooked.
 
