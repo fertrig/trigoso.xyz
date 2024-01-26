@@ -70,3 +70,24 @@ Cover beans with water in a pot. Water should be 3/4” over the beans. Add onio
 
 When they are done, salt to taste.
 
+
+### Meatballs
+
+- Ground beef
+- French bread
+- Canned milk
+- Onion
+- Garlic
+- Yeller pepper paste
+- Parsley or cilantro
+- Salt
+
+Mix french bread and canned milk (1/2 cup to 1 cup). Let is soak so it softens. 
+
+Once soften, break it apart in crumbs, you can use the blender.
+
+Heat a skillet, use olive oil, then sautee 1 chopped onion and 2 tbsps of garlic. Add salt and yellow pepper paste. Taste it.
+
+Mix ground beef with bread crumbs and contents of the skillet.
+
+Make 6 balls, roughly the same size. Put in container and then in fridge.
