@@ -3,8 +3,11 @@
 {{ end }}
 {{ define "content" }}
   <section class="container">
-    {{ range .Resources.Match "*.jpeg" }}
+    {{ $images := (.Resources.Match "*.jpeg") }}
+    {{ $sorted_images := sort $images "Exif.Date" "desc" }}
+    {{- range $index, $img := $sorted_images }}
       <img src="{{ .RelPermalink }}" width="{{ math.Mul .Width .75 }}" alt="">
+      <p style="margin: 0rem 0 4rem 0;">{{ strings.TrimSuffix ".jpeg" .Name }}</p>
     {{ end }}
   </section>
 {{ end }}
