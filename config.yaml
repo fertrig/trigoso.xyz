@@ -54,12 +54,16 @@ taxonomies:
 
 menu:
   main:
-    - name: blog
+    - name: resume
       weight: 1
+      url: resume.html
+    - name: blog
+      weight: 2
       url: posts/
     - name: talks
-      weight: 2
+      weight: 3
       url: talks/
     - name: food
-      weight: 3
+      weight: 4
       url: food/
+
