@@ -7,11 +7,11 @@ Raleigh, NC
 Senior Software Engineer. Principal product architect and developer. Writer and speaker.  Advanced technical expertise in Dart, Flutter, React, Node, Javascript. Working professionally since 2005.
 
 ## Professional Skills
-Extensive experience leading the development of all aspects of complex software systems such as: developer tools, cloud-based APIs, SaaS products, and open source projects.  
-Extensive experience building desktop and mobile applications in Dart and Flutter; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
-Extensive experience researching and designing new technical solutions; deploying, monitoring, and instrumenting software systems; designing new experiences; testing software systems and components.  
-Strong leadership and teamwork skills: experienced team lead, mentor, and agile coach; experienced working remotely; excellent communication skills.  
-Experienced speaker; fast learner and very adaptable; emotionally competent with high levels of intuition, intelligence, and experience.  
+Rich history leading the development of all aspects of complex software systems such as: developer tools, cloud-based APIs, SaaS products, and open source projects.  
+Extensive background building desktop and mobile applications in Dart and Flutter; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
+Seasoned expertise researching and designing new technical solutions; deploying, monitoring, and instrumenting software systems; designing new experiences; testing software systems and components.  
+Extensive track record leading software teams; experienced speaker, mentor, and agile coach; proven track record working remotely; excellent communication skills.  
+Fast learner and very adaptable; emotionally competent with high levels of intuition, intelligence, and creativity.  
 
 ## Work Experience
 ### Monarch
@@ -63,12 +63,10 @@ _Senior Software Engineer • April 2014 - May 2015 • [margo.me](https://margo
 Worked hand-in-hand with the CTO to develop a highly scalable cloud distributed system.  
 
 Developed the backend of the system using C# and ASP.NET MVC.   
-Developed the front end using Javascript and Knockout.  
-Developed a mobile app using Xamarin.  
+Built the web front end using Javascript and Knockout; and a mobile app using Xamarin.  
 
 Used Event Sourcing to record events in a time-series fashion in Cassandra.   
-Used Redis for caching of data models.  
-Used queue services, like SQS, to scale out the system.   
+Used Redis for caching of data models; and queue services, like SQS, to scale out the system.   
 
 Configured the system to be highly available in AWS.  
 Performed zero-downtime deployments.  
@@ -78,9 +76,10 @@ Introduced Kanban and unit test practices to the team, drastically improving pro
 ### Ultimate Software
 _Senior Software Engineer • Feb 2007 - April 2014 • [www.ukg.com](https://www.ukg.com)_
 
-Led several teams that developed features and integrations inside a large enterprise SaaS software system. Led team who received several bonus awards due to high performance.
+Led several teams that developed features and integrations inside a large enterprise SaaS software system.  
+Led a team who received several bonus awards due to high performance.  
 
-Built web solutions using C#, ASP.NET, WCF, JavaScript, jQuery, SQL.
+Developed web solutions using C#, ASP.NET, WCF, JavaScript, jQuery, SQL.
 Built integrations between products using a service-oriented architecture.
 Worked extensively with unit test frameworks.
 
@@ -94,12 +93,11 @@ _Process Engineer Manager • Jan 2010 - Aug 2010_
 
 Transitioned the company's 30 Scrum teams over to Kanban.  
 Attended several Agile training sessions.   
-Trained 30 teams on Kanban principles.  
-Implemented department-level process initiatives.  
+Trained 30 teams on Kanban principles and implemented department-level process initiatives.  
 
-Coached 3 major teams in agile methodology.  
+Coached 3 major teams in agile methodology.   
 Worked with team leads to improve their process.  
-Led a 30-person team.
+Led a 30-person team.  
 
 ### Strategic Healthcare Management Systems 
 _Software Architect_ • _2006 - 2008_
@@ -125,4 +123,4 @@ Graduated Summa Cum Laude
 ## Other Highlights
 I have given numerous presentations, talks, and mentored many developers during my career. You can find more details here: [trigoso.xyz/talks](https://trigoso.xyz/talks/). 
 
-I was one of ten international recruits accepted into the United States Air Force Academy.
+I was one of ten international recruits accepted into the United States Air Force Academy.  
