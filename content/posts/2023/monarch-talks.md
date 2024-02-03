@@ -3,6 +3,8 @@ title: "Monarch Talks"
 date: 2023-11-15
 draft: false
 slug: monarch-talks
+description: Discovering the Monarch message that resonates with users was an incredible experience. 
+image: images/monarch-talks/dc-3.png
 ---
 
 Discovering the Monarch message that resonates with users was an incredible experience. I traveled to Charlotte, Washington DC, New York City and Lima, Peru to talk about Monarch. Every presentation gave me so much feedback on what worked and what didn't work. By the time I got to the last presentation the message was on point! The audience responded very well to the messaging, specially in the last two presentations in DC and Lima.
