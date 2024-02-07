@@ -91,3 +91,16 @@ On large bowl place ground beef. Spread ground beef. Salt it.
 Mix ground beef with bread crumbs, contents of the skillet, and parsley.
 
 Make 6 balls, roughly the same size. Put in container and then in fridge.
+
+
+### Arroz chaufa
+
+- Make 3 cups of white rice (check for leftovers)
+- Whisky 6 eggs and then put in container
+- Cut up leftover chicken or any other leftover meat in large chunks
+
+Chop:
+- 1 Onion
+- 3 carrots
+- Peppers
+- Habanero
