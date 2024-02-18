@@ -91,3 +91,18 @@ On large bowl place ground beef. Spread ground beef. Salt it.
 Mix ground beef with bread crumbs, contents of the skillet, and parsley.
 
 Make 6 balls, roughly the same size. Put in container and then in fridge.
+
+
+### Té de Dulcineia
+
+Bring water to a boil then add:
+
+- Cinnamon 
+- Cloves
+- Ginger
+- Garlic
+- Lemon 
+
+Add honey at the end. 
+
+My contribution to the experience: add a herbal tea bag to the pot. 
