@@ -106,3 +106,16 @@ Bring water to a boil then add:
 Add honey at the end. 
 
 My contribution to the experience: add a herbal tea bag to the pot. 
+
+
+### Arroz chaufa
+
+- Make 3 cups of white rice (check for leftovers)
+- Whisky 6 eggs and then put in container
+- Cut up leftover chicken or any other leftover meat in large chunks
+
+Chop:
+- 1 Onion
+- 3 carrots
+- Peppers
+- Habanero

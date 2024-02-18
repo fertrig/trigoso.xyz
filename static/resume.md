@@ -8,9 +8,13 @@ Senior Software Engineer. Principal product architect and developer. Writer and 
 
 ## Professional Skills
 Rich history leading the development of all aspects of complex software systems such as: developer tools, cloud-based APIs, SaaS products, and open source projects.  
+
 Extensive background building desktop and mobile applications in Dart and Flutter; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
+
 Seasoned expertise researching and designing new technical solutions; deploying, monitoring, and instrumenting software systems; designing new experiences; testing software systems and components.  
+
 Extensive track record leading software teams; experienced speaker, mentor, and agile coach; proven track record working remotely; excellent communication skills.  
+
 Fast learner and very adaptable; emotionally competent with high levels of intuition, intelligence, and creativity.  
 
 ## Work Experience
@@ -41,7 +45,7 @@ Implemented and maintained: Monarch’s website using Docusaurus and React; ana
 Fully remote role.
 
 ### Dropsource
-_Senior Software Engineer • July 2015 - March 2020 • [www.dropsource.com/platform](https://www.dropsource.com/platform)_
+_Technical Lead • July 2015 - March 2020 • [www.dropsource.com/platform](https://www.dropsource.com/platform)_
 
 Led the team responsible for building a complex visual code editor in the browser.  
 

@@ -20,13 +20,13 @@ params:
   description: Fernando's blog, talks and more.
   keywords: blog,developer,programming,talks
   
-  avatarurl: images/fertrig-red.png
+  avatarurl: images/fertrig.png
   #gravatar: john.doe@example.com
   favicon_32: /images/favicon-32.ico
   favicon_16: /images/favicon-16.ico
   images:
     - images/fertrig-paracas-og.png
-    - images/fertrig-red.png
+    - images/fertrig.png
   
   since: 2014
   enableTwemoji: false
