@@ -15,7 +15,7 @@ Ingredients:
 - Black pepper corns, about 12
 - Bay leave, 1 or 2
 - Rosemary
-- 1 tbsp of salt
+- 3 tbsp of salt
 
 Fill 3/4 of stock pot with hot water. Boil water. Place ingredients above in stock pot. Cover pot.
 
@@ -119,3 +119,13 @@ Chop:
 - 3 carrots
 - Peppers
 - Habanero
+
+### Toast
+
+- Good loaf of bread, thicker slices, a bit more than 1/2" (1.5 cm)
+- Salted butter, 1 tbsp per slice
+
+Set oven to 350. Put cast iron skillet in there.
+
+When oven is hot, take skillet out, melt salted butter on it, place slices on bread on it, press them a bit so they soak up the butter, then flip them, then put them in the oven for 10 minutes, or 15 minutes for more toasty texture.
+
