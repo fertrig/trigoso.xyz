@@ -45,6 +45,6 @@ sh gen_resume.sh
 ### To document
 - I started using the Coder theme: https://github.com/luizdepra/hugo-coder/
 - Override css by using: assets/scss/custom.scss
-
+- Generate favicon using: https://favicon.io/favicon-generator/
 
 

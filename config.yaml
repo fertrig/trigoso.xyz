@@ -22,8 +22,8 @@ params:
   
   avatarurl: images/fertrig.png
   #gravatar: john.doe@example.com
-  favicon_32: /images/favicon-32.ico
-  favicon_16: /images/favicon-16.ico
+  favicon_32: /images/favicon-32x32.png
+  favicon_16: /images/favicon-16x16.png
   images:
     - images/fertrig-paracas-og.png
     - images/fertrig.png
