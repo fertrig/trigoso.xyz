@@ -66,4 +66,7 @@ menu:
     - name: food
       weight: 4
       url: food/
+    - name: contact
+      weight: 5
+      url: contact/
 
