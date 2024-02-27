@@ -70,3 +70,6 @@ menu:
       weight: 5
       url: contact/
 
+services:
+  googleAnalytics:
+    ID: G-QTJHGE357T
