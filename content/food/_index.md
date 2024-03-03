@@ -2,5 +2,6 @@
 title: "Food"
 draft: false
 type: food
-layout: links
 ---
+
+**Food [photos](photos), food [prep](prep), and some recipes below.**

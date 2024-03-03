@@ -1,10 +1,11 @@
 ---
 title: "Food Prep"
 draft: false
+toc: true
 ---
 
 
-### Chicken stock
+## Chicken stock
 Ingredients:
 - 1 or 2 chicken back bone
 - 1 onion peeled, cut in 4
@@ -24,7 +25,7 @@ Once it boils, lower heat. Let it cook at low heat for one hour, make sure it is
 Once done, strain contents onto another pot.
 
 
-### Dry brine whole chicken
+## Dry brine whole chicken
 Get chicken out of package, drain liquid out, place chicken on oven tray, use paper towels to dry chicken.
 
 Cut backbone out, place backbone in freezer (will be used in stock).
@@ -35,7 +36,7 @@ Salt both sides. Salt skin side last.
 
 Cover with plastic wrap and place in fridge.
 
-### Brine pork tenderloin
+## Brine pork tenderloin
 - Fill up container with cold water, half way, enough to cover tenderloins
 - Add 1/2 cup of salt
 - Add 1/3 cup of brown sugar
@@ -43,7 +44,7 @@ Cover with plastic wrap and place in fridge.
 - Mix
 - Place tenderloins in container, put container in fridge
 
-### Mash potatoes 
+## Mash potatoes 
 Boil enough potatoes to fill blender. Boil potatoes until tender. 
 
 Put in blender:
@@ -59,7 +60,7 @@ Add boiled potatoes to blender.
 Set blender at minimum speed. Blend with baton at minimum speed until silky smooth.
 
 
-### Black beans
+## Black beans
 
 - black beans soaked over night
 - 1 onion, cut in quarters
@@ -71,7 +72,7 @@ Cover beans with water in a pot. Water should be 3/4” over the beans. Add onio
 When they are done, salt to taste.
 
 
-### Meatballs
+## Meatballs
 
 - Ground beef
 - French bread
@@ -93,7 +94,7 @@ Mix ground beef with bread crumbs, contents of the skillet, and parsley.
 Make 6 balls, roughly the same size. Put in container and then in fridge.
 
 
-### Té de Dulcineia
+## Té de Dulcineia
 
 Bring water to a boil then add:
 
@@ -108,7 +109,7 @@ Add honey at the end.
 My contribution to the experience: add a herbal tea bag to the pot. 
 
 
-### Arroz chaufa
+## Arroz chaufa
 
 - Make 3 cups of white rice (check for leftovers)
 - Whisky 6 eggs and then put in container
@@ -120,7 +121,7 @@ Chop:
 - Peppers
 - Habanero
 
-### Toast
+## Toast
 
 - Good loaf of bread, thicker slices, a bit more than 1/2" (1.5 cm)
 - Salted butter, 1 tbsp per slice
