@@ -65,3 +65,14 @@ See brand-3.png and brand-5.png under static/images for screenshots of the color
 
 However, some of those colors aren't high contrast enough to put under light or dark text.
 Use an accessibility tool to get higher contrast colors if you are going to put text over them.
+
+
+### Food log
+To understand it:
+- In `food/_index.md`, `type: food` maps to directory `layouts/food`.
+- In `food/photos/index.md`, `layout: photos` and `type: food` map to `layout/food/photos.html`.
+- layouts/food/photos.html dynamically renders the food/photos page
+- layouts/food/list.html only renders pages after a certain date which filters out the pages prep and 
+  photos which don't have a date
+- layouts/food/single.html renders the `featuredImage` if set
+- layouts/food/single.html renders a Table of Contents if the page sets `toc: true`
