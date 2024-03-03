@@ -67,8 +67,14 @@ However, some of those colors aren't high contrast enough to put under light or 
 Use an accessibility tool to get higher contrast colors if you are going to put text over them.
 
 
-### Food log
-To understand it:
+### Food
+To add content:
+- To add a new recipe add a post in content/food/year, you can use a featuredImage from content/food/photos
+- To just add a photo, add it to food/photos as a compressed jpeg
+- TODO: captions of photos in food/photos is not consistent between local and prod, make them consistent, 
+  easiest would be to make it look like prod by changing the files names to dash separated file names.
+
+To understand the food layout:
 - In `food/_index.md`, `type: food` maps to directory `layouts/food`.
 - In `food/photos/index.md`, `layout: photos` and `type: food` map to `layout/food/photos.html`.
 - layouts/food/photos.html dynamically renders the food/photos page
