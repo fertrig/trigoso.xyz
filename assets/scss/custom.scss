@@ -1,9 +1,13 @@
+$fertrig-green: #356E3B;
+$fertrig-brown: #B08E71;
+
 .navigation {
   height: auto;
 
   .navigation-title {
     letter-spacing: 0rem;
     text-transform: lowercase;
+    font-size: 2.2rem;
   }
 
   .navigation-list-ft {
@@ -26,7 +30,7 @@
 }
 
 .content {
-  
+
   .about {
     margin-top: -1.5em;
 
@@ -73,12 +77,12 @@
   margin-bottom: 0;
 
   .footer-1 {
-    background-color: #356E3B;
+    background-color: $fertrig-green;
     height: 75px;
   }
 
   .footer-2 {
-    background-color: #B08E71;
+    background-color: $fertrig-brown;
     height: 25px;
   }
 }
