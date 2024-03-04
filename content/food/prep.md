@@ -130,3 +130,19 @@ Set oven to 350. Put cast iron skillet in there.
 
 When oven is hot, take skillet out, melt salted butter on it, place slices on bread on it, press them a bit so they soak up the butter, then flip them, then put them in the oven for 10 minutes, or 15 minutes for more toasty texture.
 
+## Chicken salad for sandwich
+- 3 chicken breasts
+- 2 cups of crunchy things: chopped celery, red cabagge, chopped almonds
+- 1 1/4 cups of mayo
+- 3 tbsp of vinegar
+- 5 pinches of salt
+
+Boil chicken breasts in water until internal temp is 160.
+
+When chicken is done move it to the blender. Let it rest for 5 minutes. 
+Then blend it at speed 1 using baton until shredded.
+
+Pour chicken into large bowl, add the crunchy things, mayo, vinegar and salt. 
+Stir.
+
+Test: If too salty add vinegar. If too sour add salt. If too dry add mayo.
