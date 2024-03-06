@@ -13,6 +13,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true # Allow HTML in md files
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: true
 
 params:
   author: Fernando Trigoso
@@ -22,8 +26,8 @@ params:
   
   avatarurl: images/fertrig.png
   #gravatar: john.doe@example.com
-  favicon_32: /images/favicon-32.ico
-  favicon_16: /images/favicon-16.ico
+  favicon_32: /images/favicon-32x32.png
+  favicon_16: /images/favicon-16x16.png
   images:
     - images/fertrig-paracas-og.png
     - images/fertrig.png
@@ -66,4 +70,10 @@ menu:
     - name: food
       weight: 4
       url: food/
+    - name: contact
+      weight: 5
+      url: contact/
 
+services:
+  googleAnalytics:
+    ID: G-QTJHGE357T
