@@ -49,7 +49,7 @@ Boil enough potatoes to fill blender. Boil potatoes until tender.
 Put in blender:
 - 1 can of evaporated milk, 
 - 8 tbsp of butter, 
-- 4 oz cream cheese, 
+- 3 oz cream cheese, 
 - 1 tbsp salt, 
 - 1 tsp paprika, 
 - 1 tbsp minced garlic. Garlic needs to be minced well. 
@@ -119,3 +119,7 @@ Chop:
 - 3 carrots
 - Peppers
 - Habanero
+
+### Hard boiled eggs
+
+Cover eggs with water in a pot. Boil them covered. Bring to a boil. Then remove from heat. Let them rest for 10 minutes. Then drain hot water. 
