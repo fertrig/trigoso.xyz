@@ -137,7 +137,7 @@ When oven is hot, take skillet out, melt salted butter on it, place slices on br
 ## Chicken salad for sandwich
 - 3 chicken breasts
 - 2 cups of crunchy things: chopped celery, red cabagge, chopped almonds
-- 1 1/4 cups of mayo
+- 1 cup of mayo
 - 3 tbsp of vinegar
 - 5 pinches of salt
 
@@ -150,4 +150,10 @@ Pour chicken into large bowl, add the crunchy things, mayo, vinegar and salt.
 Stir.
 
 Test: If too salty add vinegar. If too sour add salt. If too dry add mayo.
+
+## Black bean soup
+- 3 cups chicken stock
+- 4 cups black beans
+
+Blend until smooth. Check salt. 
 
