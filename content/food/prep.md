@@ -157,3 +157,19 @@ Test: If too salty add vinegar. If too sour add salt. If too dry add mayo.
 
 Blend until smooth. Check salt. 
 
+### Crema verde
+- 4 tbsp evaporated milk
+- 4 oz basil paste
+- 8 oz baby spinach
+- 2	tbsp almonds
+- 2.5 tbsp olive oil
+- 6 oz queso fresco
+- 2	garlic cloves
+- 2 pinches of salt
+
+Place water in skillet and boil, about 1/4 inch of water. Once boiling add baby spinach and boil
+briefly for 15 seconds. Make sure all the spinach is wet then move to blender cup.
+
+Then add the rest of the ingredients to the blender cup. 
+
+Blend, start at 1 and speed up to 10 (max). Blend until smooth. Taste. It should be salty.
