@@ -9,7 +9,7 @@ date: 2024-03-16
 - Gochujang paste, 1.5 tbsp to start
 - Tomato paste, 2 tbsp to start
 - Carrots, cut in rounds, 1/4" think
-- Green peppers, 1 diced
+- Green peppers, 1, cut up, 2cm 
 - Mushrooms, sliced
 - Stock
 - Rosemary 
