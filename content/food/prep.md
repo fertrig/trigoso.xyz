@@ -19,11 +19,11 @@ In large pot with water:
 - Rosemary
 - Parsley
 
-Put everything but the vinegar in a large stockpot. Bring the stock to a boil over high heat, then turn down to a simmer. Skim any foam that rises to the surface. Now add the vinegar, which will help draw out nutrients and minerals from the bones into the stock.
+> Put everything but the vinegar in a large stockpot. Bring the stock to a boil over high heat, then turn down to a simmer. Skim any foam that rises to the surface. Now add the vinegar, which will help draw out nutrients and minerals from the bones into the stock.
 
-Simmer uncovered for 6 to 8 hours. Keep an eye on it to make sure it stays at a simmer. If stock boils, its bubbles will recirculate fat that rises to the top of the stock. With the sustained heat and agitation, the stock will emulsify. This is one of the times you're not looking for an emulsion, because beyond looking cloudy, emulsified stock also tastes cloudy and clings to the tongue in an unpleasant way. One of the best things about good stock is that though its flavor is rich, it's also clean.
+> Simmer uncovered for 6 to 8 hours. Keep an eye on it to make sure it stays at a simmer. If stock boils, its bubbles will recirculate fat that rises to the top of the stock. With the sustained heat and agitation, the stock will emulsify. This is one of the times you're not looking for an emulsion, because beyond looking cloudy, emulsified stock also tastes cloudy and clings to the tongue in an unpleasant way. One of the best things about good stock is that though its flavor is rich, it's also clean.
 
-Strain through a fine-meshed sieve and cool. Scrape the fat that rises to the top and save it in the fridge or freezer for Chicken Confit.
+> Strain through a fine-meshed sieve and cool. Scrape the fat that rises to the top and save it in the fridge or freezer for Chicken Confit.
 
 Refrigerate for up to 8 days, or freeze for up to 3 months. Yogurt containers are good for freezing it.
 
