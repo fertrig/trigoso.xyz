@@ -49,6 +49,16 @@ Cover with plastic wrap and place in fridge.
 - Mix
 - Place tenderloins in container, put container in fridge
 
+## Dry brine pork chops
+Lay 6 thick pork chops on tray
+
+Mix in bowl:
+- ¼ cup brown sugar  
+- 2 tablespoons kosher salt  
+- ½ teaspoon freshly ground black pepper  
+
+Cover both sides of pork chops with mix. Cover with plastic and put in fridge for a few hours.
+
 ## Mash potatoes 
 Boil enough potatoes to fill blender. Boil potatoes until tender. 
 
