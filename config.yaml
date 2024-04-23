@@ -70,8 +70,11 @@ menu:
     - name: food
       weight: 4
       url: food/
-    - name: contact
+    - name: startups
       weight: 5
+      url: startups/
+    - name: contact
+      weight: 6
       url: contact/
 
 services:
