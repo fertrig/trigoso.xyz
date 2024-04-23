@@ -22,7 +22,7 @@ Some of my startup work:
 
 - [Monarch](https://monarchapp.io): I crafted the messaging, envisioned and executed the strategy, and built the technology for this developer tool.
 - [Dropsource](https://www.dropsource.com/platform): I designed the product experience and built the technology for this complex software product.
-- Project 1040: I validated the business model, managed the project, designed the domain model, hired contractors, and oversaw the design of the MVP for this tax planning system.
-- ArgusQ: I designed the UX of the MVP and developed the technology for this crowd sourcing platform.
+- **Project 1040**: I validated the business model, managed the project, designed the domain model, hired contractors, and oversaw the design of the MVP for this tax planning system.
+- **ArgusQ**: I designed the UX of the MVP and developed the technology for this crowd sourcing platform.
 - [marGo](https://margo.me/): I built all aspects of the technology for this direct marketing SaaS platform.
-- Dobly: a team communications tool before Slack became what it is today.
+- **Dobly**: a team communications tool before Slack became what it is today.
