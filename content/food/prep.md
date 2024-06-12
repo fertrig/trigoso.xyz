@@ -6,23 +6,28 @@ toc: true
 
 
 ## Chicken stock
-Ingredients:
-- 1 or 2 chicken back bone
-- 1 onion peeled, cut in 4
-- 4 garlic, whole peeled
-- 3 o 4 large carrots, cut in big chunks
-- 5 or 6 celery stalks, cut in big chunks
-- Ginger, a good chunk
-- Black pepper corns, about 12
-- Bay leave, 1 or 2
+
+_Based on recipe from "Salt, Fat, Acid, Heat"._
+
+In large pot with water:
+- 2 chicken backbones
+- 1 onion, unpeeled, quartered
+- 2 carrots, peeled, halved crosswise
+- 2 celery stalks, halved crosswise
+- 1/2 teaspoon black peppercorns
+- 1 bay leaf
 - Rosemary
-- 3 tbsp of salt
+- Parsley
 
-Fill 3/4 of stock pot with hot water. Boil water. Place ingredients above in stock pot. Cover pot.
+> Put everything but the vinegar in a large stockpot. Bring the stock to a boil over high heat, then turn down to a simmer. Skim any foam that rises to the surface. Now add the vinegar, which will help draw out nutrients and minerals from the bones into the stock.
 
-Once it boils, lower heat. Let it cook at low heat for one hour, make sure it is simmering (gentle bubbles).
+> Simmer uncovered for 6 to 8 hours. Keep an eye on it to make sure it stays at a simmer. If stock boils, its bubbles will recirculate fat that rises to the top of the stock. With the sustained heat and agitation, the stock will emulsify. This is one of the times you're not looking for an emulsion, because beyond looking cloudy, emulsified stock also tastes cloudy and clings to the tongue in an unpleasant way. One of the best things about good stock is that though its flavor is rich, it's also clean.
 
-Once done, strain contents onto another pot.
+> Strain through a fine-meshed sieve and cool. Scrape the fat that rises to the top and save it in the fridge or freezer for Chicken Confit.
+
+Refrigerate for up to 8 days, or freeze for up to 3 months. Yogurt containers are good for freezing it.
+
+
 
 
 ## Dry brine whole chicken
@@ -43,6 +48,16 @@ Cover with plastic wrap and place in fridge.
 - 2 bay leaves
 - Mix
 - Place tenderloins in container, put container in fridge
+
+## Dry brine pork chops
+Lay 6 thick pork chops on tray
+
+Mix in bowl:
+- ¼ cup brown sugar  
+- 2 tablespoons kosher salt  
+- ½ teaspoon freshly ground black pepper  
+
+Cover both sides of pork chops with mix. Cover with plastic and put in fridge for a few hours.
 
 ## Mash potatoes 
 Boil enough potatoes to fill blender. Boil potatoes until tender. 
