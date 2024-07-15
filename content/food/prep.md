@@ -188,3 +188,29 @@ briefly for 15 seconds. Make sure all the spinach is wet then move to blender cu
 Then add the rest of the ingredients to the blender cup. 
 
 Blend, start at 1 and speed up to 10 (max). Blend until smooth. Taste. It should be salty.
+
+### Red Sauce Babish
+
+- Olive oil
+- onion, 1/2, chopped
+- Garlic, 4, chopped 
+
+Sauté, salt, taste
+
+
+- Tomato paste, 1 can or 6oz
+
+Sautee, salt, taste 
+
+- 3/4 tsp oregano
+Toast a bit 
+
+- add tomatoes, 6, peeled 
+- Water, 2 tbsp if needed (use stock if available)
+
+Check salt 
+
+Bring to boils then 45 minutes simmer 
+
+Basil and butter at the end. 2 tbsp each. 
+
