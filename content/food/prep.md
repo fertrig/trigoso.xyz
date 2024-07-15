@@ -189,7 +189,7 @@ Then add the rest of the ingredients to the blender cup.
 
 Blend, start at 1 and speed up to 10 (max). Blend until smooth. Taste. It should be salty.
 
-### Red Sauce Babish
+## Red Sauce Babish
 
 - Olive oil
 - onion, 1/2, chopped
