@@ -16,7 +16,9 @@ date: 2024-03-16
 - Rosemary 
 - Bay leaf 
 
-Salt beef. In pot where you will cook the stew: seal beef on olive oil then remove beef. In pot, add onions, garlic, salt, gochujang paste, aji panca, tomato paste. Mix and let it cook for a few minutes. Taste, adjust.
+Salt beef in a plate or bowl. Set aside. 
+
+In pot where you will cook the stew: seal beef on olive oil then remove beef. In pot, add onions, garlic, salt, gochujang paste, aji panca, tomato paste. Mix and let it cook for a few minutes. Taste, adjust.
 
 Add beef back in. Add carrots, add salt, mix. Add stock, 1 or 2 cups, eye ball it. Check salt. Bring it to a boil.
 
