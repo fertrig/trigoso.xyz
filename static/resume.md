@@ -4,12 +4,12 @@
 Raleigh, NC   
 
 ## Summary
-Senior Software Engineer. Principal product architect and developer. Writer and speaker.  Advanced technical expertise in Dart, Flutter, React, Node, Javascript. Working professionally since 2005.
+Senior Software Engineer. Principal product architect and developer. Writer and speaker. Advanced technical expertise in Dart, Flutter, Swift, React, Node, Javascript. Working professionally since 2005.
 
 ## Professional Skills
-Rich history leading the development of all aspects of complex software systems such as: developer tools, cloud-based APIs, SaaS products, and open source projects.  
+Rich history leading the development of all aspects of complex software systems. Experience building mobile apps, developer tools, cloud-based APIs, SaaS products, and open source projects.  
 
-Extensive background building desktop and mobile applications in Dart and Flutter; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
+Extensive background building mobile applications in Dart, Flutter, and Swift; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
 
 Seasoned expertise researching and designing new technical solutions; deploying, monitoring, and instrumenting software systems; designing new experiences; testing software systems and components.  
 
@@ -18,6 +18,35 @@ Extensive track record leading software teams; experienced speaker, mentor, and 
 Fast learner and very adaptable; emotionally competent with high levels of intuition, intelligence, and creativity.  
 
 ## Work Experience
+### Synco
+_Lead Software Engineer • June 2024 - Present • [teamsynco.io](https://teamsynco.com)_
+
+Led the development of a real-time chat application with offline functionality.  
+Built front-ends in iOS, Android, and Web.  
+Fully remote role, worked with 3 other senior developers, reported directly to CTO.  
+
+Built UI features in iOS and Android using Flutter.  
+Developed mobile native integrations using Flutter method channels, Swift, and Kotlin.  
+Learned Swift and Swift UI to develop an iOS Share Extension.  
+Developed a WebSockets client using Typescript.  
+
+Worked with GraphQL clients on web, Flutter, Swift.  
+Used Riverpod in Flutter.  
+Worked with Isar, a mobile NoSQL database.  
+Used React, Apollo, GraphQL in the web.  
+Implemented new features behind feature flags.  
+Instrumented the mobile apps with logging, both local and remote logs.  
+
+Collaborated with product team to validate product design.  
+Worked with designers to clarify requirements.  
+Implemented and promoted Apple's Human Interface Guidelines.  
+
+Researched and developed the integration between a Flutter app and an iOS share extension.   
+Managed hard memory requirements imposed by iOS.  
+Used AI coding assistants: Github Copilot and Cursor.  
+
+Exceeded very high expectations.  
+
 ### Monarch
 _Principal Developer • April 2020 - Present • [monarchapp.io](https://monarchapp.io)_
 
