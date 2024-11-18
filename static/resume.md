@@ -80,8 +80,7 @@ Fully remote role.
 _Technical Lead • July 2015 - March 2020 • [www.dropsource.com/platform](https://www.dropsource.com/platform)_
 
 **Built a complex visual code editor in the browser using React and Node.js.**  
-
-Led the team responsible for building the front-end and middleware components of the platform.  
+**Led the team responsible for building the front-end and middleware components of the platform.**  
 
 Used React and Flux to build the front-end using a single page application model.  
 Used Node.js to build the code editor API.   
@@ -98,28 +97,25 @@ Collaborated with designers and product managers to create requirements for new 
 ### marGo
 _Senior Software Engineer • April 2014 - May 2015 • [margo.me](https://margo.me)_
 
-**Built a highly scalable cloud distributed system using Javascript, C#, and ASP.NET MVC.**  
-
-Worked hand-in-hand with the CTO.
-
-Developed the backend of the system using C# and ASP.NET MVC.   
-Built the web front end using Javascript and Knockout; and a mobile app using Xamarin.  
+**Built a highly scalable cloud distributed system using Javascript, C#, ASP.NET MVC, and Xamarin.**  
 
 Used Event Sourcing to record events in a time-series fashion in Cassandra.   
 Used Redis for caching of data models; and queue services, like SQS, to scale out the system.   
+Developed the backend of the system using C# and ASP.NET MVC.   
+Built the web front end using Javascript and Knockout; and a mobile app using Xamarin.  
 
 Configured the system to be highly available in AWS.  
 Performed zero-downtime deployments.  
 Integrated with various cloud services like SendGrid, Twilio, PubNub, etc.  
 Introduced Kanban and unit test practices to the team, drastically improving product quality.   
 
+Worked hand-in-hand with the CTO.
+
 ### Ultimate Software
 _Senior Software Engineer • Feb 2007 - April 2014 • [www.ukg.com](https://www.ukg.com)_
 
 **Developed web solutions using C#, ASP.NET, WCF, JavaScript, jQuery, SQL.**  
-
-Led several teams that developed features and integrations inside a large enterprise SaaS software system.  
-Led a team who received several bonus awards due to high performance.  
+**Led several software teams inside a large enterprise SaaS software system.**   
 
 Built integrations between products using a service-oriented architecture.
 Worked extensively with unit test frameworks.
@@ -127,6 +123,7 @@ Worked extensively with unit test frameworks.
 Coordinated efforts with teams in other areas such as UX, security, performance, etc.  
 Reviewer of the technical level of other engineers across the entire organization.  
 Ran daily stand-ups and retrospectives.  
+Led a team who received several bonus awards due to high performance.  
 Worked closely with product managers and designers.  
 Worked remotely for 3 years.
 
