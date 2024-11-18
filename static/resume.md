@@ -35,7 +35,7 @@ Used Riverpod in Flutter.
 Worked with Isar, a mobile NoSQL database.  
 Used React, Apollo, GraphQL in the web.  
 Implemented new features behind feature flags.  
-Instrumented the mobile apps with logging, both local and remote logs.  
+Instrumented mobile device logging and remote error reporting.
 
 Collaborated with product team to validate product design.  
 Worked with designers to clarify requirements.  
