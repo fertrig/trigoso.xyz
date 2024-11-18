@@ -27,7 +27,7 @@ Fully remote role, worked with 3 other senior developers, reported directly to C
 
 Built UI features in iOS and Android using Flutter.  
 Developed mobile native integrations using Flutter method channels, Swift, and Kotlin.  
-Learned Swift and Swift UI to develop an iOS Share Extension.  
+Learned Swift and SwiftUI to develop an iOS Share Extension.  
 Developed a WebSockets client using Typescript.  
 
 Worked with GraphQL clients on web, Flutter, Swift.  
