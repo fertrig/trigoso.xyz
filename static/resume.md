@@ -21,7 +21,7 @@ Fast learner and very adaptable; emotionally competent with high levels of intui
 
 ## Work Experience
 ### Synco
-_Lead Software Engineer • June 2024 - Present • [teamsynco.io](https://teamsynco.com)_
+_Lead Software Engineer • June 2024 - Present • [teamsynco.com](https://teamsynco.com)_
 
 **Led the development of a real-time chat application with offline functionality.**  
 **Built applications for iOS, Android, and the web using Flutter, Swift, and Typescript.**  
