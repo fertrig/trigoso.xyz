@@ -15,6 +15,6 @@ Add salt and pepper.
 
 Add dressing and grate fresh Parmesan cheese all over the salad and mix it in. That can sit for 5-10 mins or you can serve it right away. I add avocado and more cheese on top right when you’re ready to eat.  
 
-This is the closest recipe I could find for what I do. Garlic is a good addition. I’ve done it before but I don’t do it often.
+This is the [closest recipe](https://www.loveandlemons.com/lemon-vinaigrette/#wprm-recipe-container-48434) I could find for what I do. Garlic is a good addition. I’ve done it before but I don’t do it often. 
 
-https://www.loveandlemons.com/lemon-vinaigrette/#wprm-recipe-container-48434
+It balances a roasted chicken very well.
