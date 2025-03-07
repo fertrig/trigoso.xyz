@@ -23,29 +23,29 @@ Fast learner and very adaptable; emotionally competent with high levels of intui
 ### Tissue Health Plus
 _Lead Software Engineer • January 2025 - Present • [tissuehealthplus.com](https://www.tissuehealthplus.com)_
 
-Tech lead for a team of 15 software professionals.
-Responsible for building UI features in a web application using Flutter Web, Riverpod, and gRPC.
-Designed new features, backend APIs, UI components, and CI/CD pipelines.
-Implemented reusable components and services: Pluto Grid, Auth0, etc.
-Reworked large areas of the product due to performance and quality issues.
+Tech lead for a team of 15 software professionals.  
+Responsible for building UI features in a web application using Flutter Web, Riverpod, and gRPC.  
+Designed new features, backend APIs, UI components, and CI/CD pipelines.  
+Implemented reusable components and services: Pluto Grid, Auth0, etc.  
+Reworked large areas of the product due to performance and quality issues.  
 
-Responsible for establishing new patterns and coding best practices for other developers.
-Defines technical goals for entire team.
-Provides guidance and feedback to frontend and backend developers.
-Removed major impediments: solved multiple repo problems, identified issues with processes and resources in the team.
+Responsible for establishing new patterns and coding best practices for other developers.  
+Defines technical goals for entire team.  
+Provides guidance and feedback to frontend and backend developers.  
+Removed major impediments: solved multiple repo problems, identified issues with processes and resources in the team.  
 
-Prepares and leads demos to stakeholders.
-Successful collaboration with UX designers, Product Managers, and QA testers.
-Conducts interviews of frontend and backend developers.
-Thought leader in the company, strong influence in product direction and processes.
+Prepares and leads demos to stakeholders.  
+Successful collaboration with UX designers, Product Managers, and QA testers.  
+Conducts interviews of frontend and backend developers.  
+Thought leader in the company, strong influence in product direction and processes.  
 
-Contributes to the system architecture which includes a web app, a mobile app, AI agents, and data integrations.
-Contributes to the Event Sourcing architecture of the system.
-Responsible for several cross-team initiatives. 
-Using various developer and AI tools: Cursor, Claude, Monarch.
+Contributes to the system architecture which includes a web app, a mobile app, AI agents, and data integrations.  
+Contributes to the Event Sourcing architecture of the system.  
+Responsible for several cross-team initiatives.   
+Using various developer and AI tools: Cursor, Claude, Monarch.  
 
-Fully remote role, worked with other tech leads and offshore developers.
-Receive consistently positive feedback from stakeholders and company leaders.
+Fully remote role, worked with other tech leads and offshore developers.  
+Receive consistently positive feedback from stakeholders and company leaders.  
 
 ### Synco
 _Lead Software Engineer • June 2024 - December 2024 • [teamsynco.com](https://teamsynco.com)_
