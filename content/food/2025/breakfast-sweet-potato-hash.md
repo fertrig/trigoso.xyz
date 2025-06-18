@@ -1,7 +1,7 @@
-—
+---
 title: Sweet Potato & Egg Breakfast Hash
 date: 2025-06-18
-—
+---
 
 - Roasted sweet potatoes 
 - scallions 
