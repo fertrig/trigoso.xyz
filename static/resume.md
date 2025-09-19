@@ -23,8 +23,10 @@ Fast learner and very adaptable; emotionally competent with high levels of intui
 ### Tissue Health Plus
 _Lead Software Engineer • January 2025 - Present • [tissuehealthplus.com](https://www.tissuehealthplus.com)_
 
+
 Tech lead for a team of 15 software professionals.  
 Responsible for building UI features in web and mobile applications using Flutter, Flutter Web, Riverpod, and gRPC.  
+Designed a framework for AI tools and humans. The framework enables AI tools to be successful at generating code from requirements, and the generated code is easy for humans to verify.  
 Designed new features, backend APIs, UI components, and CI/CD pipelines.  
 Implemented reusable components and services: Pluto Grid, Auth0, etc.  
 Reworked large areas of the product due to performance and quality issues.  
