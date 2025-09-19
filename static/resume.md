@@ -11,7 +11,7 @@ Delivering professional solutions since 2005.
 ## Professional Skills
 Rich history leading the development of all aspects of complex software systems. Full stack development experience building mobile apps, web applications, developer tools, cloud-based APIs, SaaS products, and open source projects.  
 
-Experience working with AI tools that re-think the SDLC. Built frameworks that enable AI tools to be successful at generating code that humans can easily verify.  
+Experience working with AI tools to re-think the SDLC. Built frameworks that enable AI tools to be successful at generating code that humans can easily verify.  
 
 Extensive experience building mobile applications in iOS and Android using Dart, Flutter, and Swift; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
 
