@@ -108,7 +108,7 @@ Implemented and maintained: Monarch’s website using Docusaurus and React; ana
 Fully remote role.
 
 ### Dropsource
-_Technical Lead • July 2015 - March 2020 • [www.dropsource.com/platform](https://www.dropsource.com/platform)_
+_Lead Software Engineer • July 2015 - March 2020 • [www.dropsource.com/platform](https://www.dropsource.com/platform)_
 
 **Built a complex visual code editor in the browser using React and Node.js.**  
 **Led the team responsible for building the front-end and middleware components of the platform.**  
