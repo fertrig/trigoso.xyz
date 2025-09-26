@@ -4,22 +4,33 @@
 Raleigh, NC   
 
 ## Summary
-Senior Software Engineer, Principal Developer, and Software Architect. 
-A rare talent possessing deep technical expertise, sound judgment, and discipline. 
-Delivering professional solutions since 2005.
+Senior Software Engineer and Technical Leader with 20+ years building complex software systems across mobile, web, and desktop platforms. Expert in Flutter, React, and modern AI-augmented development workflows. Passionate about finding sound solutions.
 
 ## Professional Skills
-Rich history leading the development of all aspects of complex software systems. Deep experience architecting and building mobile apps, web applications, developer tools, cloud-based APIs, SaaS products, and open source projects.  
 
-Experience leveraging AI to augment productivity. Designed and built frameworks for AI and humans. 
+**Core Technical Areas**  
+Programming languages: Dart, Flutter, Swift, C++, Node.js, TypeScript, React, and Javascript.
+System architecture: Event Sourcing, API design, database design, and cloud architecture.
+Platform expertise: mobile, web, desktop, and cloud.
 
-Extensive experience building mobile applications in iOS and Android using Dart, Flutter, and Swift; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
+**Technical Leadership**  
+Led teams of 15+ software professionals across distributed environments. 
+Led the architecture of complex cloud-based systems spanning mobile, web, desktop, and AI components. 
+Established technical standards, coding practices, and development workflows. 
+Interviewed, designed code challenges, and coached developers. 
 
-Seasoned expertise researching and designing new technical solutions; deploying, monitoring, and instrumenting software systems; designing new experiences; testing software systems and components.  
+**Modern Development Practices**  
+Built AI-augmented development frameworks using Cursor and Claude Code.
+Built comprehensive build systems supporting multiple platforms and Flutter SDK versions. 
+Implemented feature flagging and mobile device logging/error reporting. 
+Implemented code push and deployment pipelines.
+Contributed to open source projects: Monarch, Flutter SDK.
 
-Extensive track record leading software teams; experienced speaker, mentor, and agile coach; proven track record working remotely; excellent communication skills.  
-
-Fast learner, adaptable, and curious; a systems thinker, emotionally competent with high levels of intuition, intelligence, and creativity.  
+**Soft Skills**  
+Cross-functional collaboration with UX designers, product managers, and QA teams.
+Public speaking at international conferences and developer meetups.
+Stakeholder communication through demos and technical presentations.
+Wrote documentation for open source projects and developer tools.
 
 ## Work Experience
 ### Tissue Health Plus
@@ -28,7 +39,7 @@ _Lead Software Engineer • January 2025 - Present • [tissuehealthplus.com](h
 
 Tech lead for a team of 15 software professionals.  
 Responsible for building UI features in web and mobile applications using Flutter, Flutter Web, Riverpod, and gRPC.  
-Designed a framework for AI tools and humans. The framework enables AI tools to be successful at generating code from requirements, and the generated code is easy for humans to verify.  
+Designed an AI-augmented framework for AI and humans. The framework enables AI tools to be successful at generating code from requirements, and the generated code is easy for humans to verify.  
 Designed new features, backend APIs, UI components, and CI/CD pipelines.  
 Implemented reusable components and services: Pluto Grid, Auth0, etc.  
 Reworked large areas of the product due to performance and quality issues.  
