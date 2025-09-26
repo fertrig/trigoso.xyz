@@ -15,54 +15,45 @@ Desktop: Swift, C++.
 Backend: gRPC, Event Sourcing, API design, database design, and cloud APIs.  
 
 **Leadership & Architecture**  
-Led teams of 15+ software professionals across distributed environments
-Architected complex systems spanning mobile, web, desktop, and AI components
-Established technical standards, coding practices, and development workflows
-Interviewed, designed code challenges, and coached developers. 
+Led teams of 15+ software professionals across distributed environments.  
+Architected complex systems spanning mobile, web, desktop, and AI components.  
+Established technical standards, coding practices, and development workflows.  
+Interviewed, designed code challenges, and coached developers.  
 
 **Development Practices**  
-AI-augmented development framework using Cursor and Claude Code.
-Comprehensive build systems supporting multiple platforms and Flutter SDK versions
-Feature flag implementation and mobile device logging/error reporting
-Zero-downtime deployments and high-availability AWS configurations
-Implemented code push and deployment pipelines.
-Contributed to open source projects: Monarch, Flutter SDK.
+AI-augmented development framework using Cursor and Claude Code.  
+Comprehensive build systems supporting multiple platforms and Flutter SDK versions.  
+Feature flag implementation and mobile device logging/error reporting.  
+Zero-downtime deployments and high-availability AWS configurations.  
+Implemented code push and deployment pipelines.  
+Contributed to open source projects: Monarch, Flutter SDK.  
 
 **Communication & Leadership**  
-Cross-functional collaboration with UX designers, product managers, and QA teams.
-Public speaking at international conferences and developer meetups.
-Stakeholder communication through demos and technical presentations.
-Wrote documentation for open source projects and developer tools.
+Cross-functional collaboration with UX designers, product managers, and QA teams.  
+Public speaking at international conferences and developer meetups.  
+Stakeholder communication through demos and technical presentations.  
+Wrote documentation for open source projects and developer tools.  
 
 ## Work Experience
 ### Tissue Health Plus
 _Lead Software Engineer • January 2025 - Present • [tissuehealthplus.com](https://www.tissuehealthplus.com)_
 
+**Led the development of a healthtech SaaS platform.**  
+**Built mobile and web applications using Flutter, Flutter Web, Riverpod, and gRPC.**  
 
-Tech lead for a team of 15 software professionals.  
-Responsible for building UI features in web and mobile applications using Flutter, Flutter Web, Riverpod, and gRPC.  
-Designed an AI-augmented framework for AI and humans. The framework enables AI tools to be successful at generating code from requirements, and the generated code is easy for humans to verify.  
-Designed new features, backend APIs, UI components, and CI/CD pipelines.  
-Implemented reusable components and services: Pluto Grid, Auth0, etc.  
+Led team of 15 software professionals across distributed environments.  
+Implemented critical features and components of the product: PlutoGrid, Auth0, Flutter Web, routing.  
+Designed AI-augmented framework enabling AI tools to generate verifiable code from requirements.  
+Established technical standards and coding practices, improving team productivity.  
+Removed major impediments: solved repo problems and identified process issues.  
+Contributed to Event Sourcing architecture and cross-team initiatives.  
+Conducted technical interviews and prepared stakeholder demos.  
 Reworked large areas of the product due to performance and quality issues.  
+Used various developer and AI tools: Cursor, Claude, Monarch.  
 
-Responsible for establishing new patterns and coding best practices for other developers.  
-Defines technical goals for entire team.  
-Provides guidance and feedback to frontend and backend developers.  
-Removed major impediments: solved multiple repo problems, identified issues with processes and resources in the team.  
-
-Prepares and leads demos to stakeholders.  
-Successful collaboration with UX designers, Product Managers, and QA testers.  
-Conducts interviews of frontend and backend developers.  
-Thought leader in the company, strong influence in product direction and processes.  
-
-Contributes to the system architecture which includes a web app, a mobile app, AI agents, and data integrations.  
-Contributes to the Event Sourcing architecture of the system.  
-Responsible for several cross-team initiatives.   
-Using various developer and AI tools: Cursor, Claude, Monarch.  
-
-Fully remote role, worked with other tech leads and offshore developers.  
-Receive consistently positive feedback from stakeholders and company leaders.  
+Fully remote role.  
+Worked with other tech leads and offshore developers.  
+Received consistently positive feedback from stakeholders and company leaders.  
 
 ### Synco
 _Lead Software Engineer • June 2024 - December 2024 • [teamsynco.com](https://teamsynco.com)_
