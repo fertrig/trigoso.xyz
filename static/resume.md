@@ -5,13 +5,13 @@ Raleigh, NC
 
 ## Summary
 Senior Software Engineer, Principal Developer, and Software Architect. 
-A rare talent possessing deep technical expertise, strong problem solving skills, and discipline. 
+A rare talent possessing deep technical expertise, sound judgment, and discipline. 
 Delivering professional solutions since 2005.
 
 ## Professional Skills
-Rich history leading the development of all aspects of complex software systems. Full stack development experience building mobile apps, web applications, developer tools, cloud-based APIs, SaaS products, and open source projects.  
+Rich history leading the development of all aspects of complex software systems. Deep experience architecting and building mobile apps, web applications, developer tools, cloud-based APIs, SaaS products, and open source projects.  
 
-Experience working with AI tools to re-think the SDLC. Built frameworks that enable AI tools to be successful at generating code that humans can easily verify.  
+Experience leveraging AI to augment productivity. Designed and built frameworks for AI and humans. 
 
 Extensive experience building mobile applications in iOS and Android using Dart, Flutter, and Swift; web applications using React, Node, and Javascript; and desktop applications using Swift and C++.  
 
@@ -19,7 +19,7 @@ Seasoned expertise researching and designing new technical solutions; deploying,
 
 Extensive track record leading software teams; experienced speaker, mentor, and agile coach; proven track record working remotely; excellent communication skills.  
 
-Fast learner and very adaptable; emotionally competent with high levels of intuition, intelligence, and creativity.  
+Fast learner, adaptable, and curious; a systems thinker, emotionally competent with high levels of intuition, intelligence, and creativity.  
 
 ## Work Experience
 ### Tissue Health Plus
