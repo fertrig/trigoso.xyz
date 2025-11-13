@@ -15,12 +15,12 @@ Desktop: Swift, C++, Flutter.
 Backend: Node.js, C#, Event Sourcing, PostgreSQL, MongoDB, cloud APIs.  
 
 **AI-augmented Development**  
-Built a framework for AI agents so they produce code that is verifiable by humans.
-Designed and implemented an AI-augmented development workflow.
-Wrote context rules to generate specifications from requirements and UI mockups.
-Configured PR review agents to review code changes and provide feedback.
-Integrated with AI APIs and SDKs: Cloud Translation API, Computer Vision SDK, AI summarization, AI transcription, etc.
-Experience with various AI tools: Cursor, Claude Code.
+Built a framework for AI agents so they produce code that is verifiable by humans.  
+Designed and implemented an AI-augmented development workflow.  
+Wrote context rules to generate specifications from requirements and UI mockups.  
+Configured PR review agents to review code changes and provide feedback.  
+Integrated with AI APIs and SDKs: Cloud Translation API, Computer Vision SDK, AI summarization, AI transcription, etc.  
+Experience with various AI tools: Cursor, Claude Code.  
 
 **Leadership & Architecture**  
 Led teams of 15+ software professionals across distributed environments.  
