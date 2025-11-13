@@ -10,9 +10,17 @@ Senior Software Engineer and Technical Leader with 20+ years building complex so
 
 **Core Technical Areas**  
 Mobile: Flutter, Dart, Swift, iOS/Android native development.  
-Web: React, Node.js, TypeScript.  
-Desktop: Swift, C++.  
-Backend: gRPC, Event Sourcing, API design, database design, and cloud APIs.  
+Web: React, TypeScript, JavaScript.  
+Desktop: Swift, C++, Flutter.  
+Backend: Node.js, C#, Event Sourcing, PostgreSQL, MongoDB, cloud APIs.  
+
+**AI-augmented Development**  
+Built a framework for AI agents so they produce code that is verifiable by humans.
+Designed and implemented an AI-augmented development workflow.
+Wrote context rules to generate specifications from requirements and UI mockups.
+Configured PR review agents to review code changes and provide feedback.
+Integrated with AI APIs and SDKs: Cloud Translation API, Computer Vision SDK, AI summarization, AI transcription, etc.
+Experience with various AI tools: Cursor, Claude Code.
 
 **Leadership & Architecture**  
 Led teams of 15+ software professionals across distributed environments.  
@@ -21,7 +29,7 @@ Established technical standards, coding practices, and development workflows.
 Interviewed, designed code challenges, and coached developers.  
 
 **Development Practices**  
-AI-augmented development framework using Cursor and Claude Code.  
+Built AI-augmented development frameworks.
 Comprehensive build systems supporting multiple platforms and Flutter SDK versions.  
 Feature flag implementation and mobile device logging/error reporting.  
 Zero-downtime deployments and high-availability AWS configurations.  
@@ -29,7 +37,7 @@ Implemented code push and deployment pipelines.
 Contributed to open source projects: Monarch, Flutter SDK.  
 
 **Communication & Leadership**  
-Cross-functional collaboration with UX designers, product managers, and QA teams.  
+Cross-functional collaboration with UX designers, Product Managers, and QA teams.  
 Public speaking at international conferences and developer meetups.  
 Stakeholder communication through demos and technical presentations.  
 Wrote documentation for open source projects and developer tools.  
@@ -44,6 +52,7 @@ _Lead Software Engineer • January 2025 - Present • [tissuehealthplus.com](h
 Led team of 15 software professionals across distributed environments.  
 Implemented critical features and components of the product: PlutoGrid, Auth0, Flutter Web, routing.  
 Designed AI-augmented framework enabling AI tools to generate verifiable code from requirements.  
+Integrated with on-device computer vision SDK.
 Established technical standards and coding practices, improving team productivity.  
 Removed major impediments: solved repo problems and identified process issues.  
 Contributed to Event Sourcing architecture and cross-team initiatives.  
@@ -59,12 +68,12 @@ Received consistently positive feedback from stakeholders and company leaders.
 _Lead Software Engineer • June 2024 - December 2024 • [teamsynco.com](https://teamsynco.com)_
 
 **Led the development of a real-time chat application with offline functionality.**  
-**Built applications for iOS, Android, and the web using Flutter, Swift, and Typescript.**  
+**Built applications for iOS, Android, and the web using Flutter, Swift, and TypeScript.**  
 
 Built UI features in iOS and Android using Flutter.  
 Developed mobile native integrations using Flutter method channels, Swift, and Kotlin.  
 Learned Swift and SwiftUI to develop an iOS Share Extension.  
-Developed a WebSockets client using Typescript.  
+Developed a WebSockets client using TypeScript.  
 
 Worked with GraphQL clients on web, Flutter, Swift.  
 Used Riverpod in Flutter.  
@@ -108,7 +117,7 @@ Presented Monarch to developer groups internationally.
 Managed a developer contractor and content writer.  
 Maintained open source project: wrote contribution guides, communicated with the community, addressed and prioritized issues, reviewed pull requests.  
 
-Implemented and maintained: Monarch’s website using Docusaurus and React; analytics using Elasticsearch, Javascript and D3.  
+Implemented and maintained: Monarch’s website using Docusaurus and React; analytics using Elasticsearch, JavaScript and D3.  
 Fully remote role.
 
 ### Dropsource
@@ -132,12 +141,12 @@ Collaborated with designers and product managers to create requirements for new 
 ### marGo
 _Senior Software Engineer • April 2014 - May 2015 • [margo.me](https://margo.me)_
 
-**Built a highly scalable cloud distributed system using Javascript, C#, ASP.NET MVC, and Xamarin.**  
+**Built a highly scalable cloud distributed system using JavaScript, C#, ASP.NET MVC, and Xamarin.**  
 
 Used Event Sourcing to record events in a time-series fashion in Cassandra.   
 Used Redis for caching of data models; and queue services, like SQS, to scale out the system.   
 Developed the backend of the system using C# and ASP.NET MVC.   
-Built the web front end using Javascript and Knockout; and a mobile app using Xamarin.  
+Built the web front end using JavaScript and Knockout; and a mobile app using Xamarin.  
 
 Configured the system to be highly available in AWS.  
 Performed zero-downtime deployments.  
