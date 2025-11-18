@@ -54,7 +54,7 @@ _Lead Software Engineer • January 2025 - Present • [tissuehealthplus.com](h
 Led team of 15 software professionals across distributed environments.  
 Implemented critical features and components of the product: PlutoGrid, Auth0, Flutter Web, routing.  
 Designed AI-augmented framework enabling AI tools to generate verifiable code from requirements.  
-Integrated with on-device computer vision SDK.
+Integrated with on-device computer vision SDK.  
 Established technical standards and coding practices, improving team productivity.  
 Removed major impediments: solved repo problems and identified process issues.  
 Contributed to Event Sourcing architecture and cross-team initiatives.  
