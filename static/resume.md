@@ -31,7 +31,7 @@ Established technical standards, coding practices, and development workflows.
 Interviewed, designed code challenges, and coached developers.  
 
 **Development Practices**  
-Built AI-augmented development frameworks.
+Built AI-augmented development frameworks.  
 Comprehensive build systems supporting multiple platforms and Flutter SDK versions.  
 Feature flag implementation and mobile device logging/error reporting.  
 Zero-downtime deployments and high-availability AWS configurations.  
