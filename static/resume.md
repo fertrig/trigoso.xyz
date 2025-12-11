@@ -12,7 +12,8 @@ Senior Software Engineer and Technical Leader with 20+ years building complex so
 Mobile: Flutter, Dart, Swift, iOS/Android native development.  
 Web: React, TypeScript, JavaScript.  
 Desktop: Swift, C++, Flutter.  
-Backend: Node.js, C#, Event Sourcing, PostgreSQL, MongoDB, cloud APIs.  
+Backend: Node.js, C#, Event Sourcing, PostgreSQL, MongoDB, Cassandra.  
+Cloud: AWS (S3, RDS, Lambda, ECS, SQS), GCP (Cloud Run, Cloud SQL, Firebase, Firestore), Docker, Heroku.  
 
 **AI-augmented Development**  
 Built a framework for AI agents so they produce code that is verifiable by humans.  
@@ -32,10 +33,9 @@ Interviewed, designed code challenges, and coached developers.
 
 **Development Practices**  
 Built AI-augmented development frameworks.  
-Comprehensive build systems supporting multiple platforms and Flutter SDK versions.  
-Feature flag implementation and mobile device logging/error reporting.  
-Zero-downtime deployments and high-availability AWS configurations.  
-Implemented code push and deployment pipelines.  
+Comprehensive build systems supporting multiple platforms, tools, and frameworks.  
+Implementation of WebSockets, push notifications, feature flags, logging, crash reporting, code push.  
+Zero-downtime deployments and high-availability cloud configurations.  
 Contributed to open source projects: Monarch, Flutter SDK.  
 
 **Communication & Leadership**  
@@ -46,7 +46,7 @@ Wrote documentation for open source projects and developer tools.
 
 ## Work Experience
 ### Tissue Health Plus
-_Lead Software Engineer • January 2025 - Present • [tissuehealthplus.com](https://www.tissuehealthplus.com)_
+_Lead Software Engineer • January 2025 - November 2025 • [tissuehealthplus.com](https://www.tissuehealthplus.com)_
 
 **Led the development of a healthtech SaaS platform.**  
 **Built mobile and web applications using Flutter, Flutter Web, Riverpod, and gRPC.**  
@@ -65,6 +65,16 @@ Used various developer and AI tools: Cursor, Claude, Monarch.
 Fully remote role.  
 Worked with other tech leads and offshore developers.  
 Received consistently positive feedback from stakeholders and company leaders.  
+
+### Pawboost
+_Senior Software Engineer • December 2024 - January 2025 • [pawboost.com](https://pawboost.com)_
+
+**Built a mobile app for iOS and Android using Flutter.**  
+**Built GCP backend using Cloud Run, Firebase and Firestore.**  
+
+Simplified the original codebase.   
+Built and deployed a GCP backend using Cloud Run, Firebase and Firestore.  
+Built scripts to deploy and release apps to the App Store and Google Play Store.  
 
 ### Synco
 _Lead Software Engineer • June 2024 - December 2024 • [teamsynco.com](https://teamsynco.com)_
