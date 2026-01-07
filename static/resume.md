@@ -45,6 +45,16 @@ Stakeholder communication through demos and technical presentations.
 Wrote documentation for open source projects and developer tools.  
 
 ## Work Experience
+
+### Revenium
+_Lead Software Engineer • December 2025 - Present • [revenium.ai](https://revenium.ai)_
+
+**Built an FinOps analytics dashboard using React, TypeScript, Node.js, and Clickhouse.**  
+**Designed a domain-specific query language for AI metrics.**  
+
+Technologies used: React + TypeScript, React Router, Tailwind CSS, Vite   
+Other technologies used: tRPC, ClickHouse, Kysely, Zod  
+
 ### Tissue Health Plus
 _Lead Software Engineer • January 2025 - November 2025 • [tissuehealthplus.com](https://www.tissuehealthplus.com)_
 
@@ -80,17 +90,17 @@ Built scripts to deploy and release apps to the App Store and Google Play Store.
 _Lead Software Engineer • June 2024 - December 2024 • [teamsynco.com](https://teamsynco.com)_
 
 **Led the development of a real-time chat application with offline functionality.**  
-**Built applications for iOS, Android, and the web using Flutter, Swift, and TypeScript.**  
+**Built applications for iOS, Android, and the web using Flutter, Swift, TypeScript, and React.**  
 
 Built UI features in iOS and Android using Flutter.  
 Developed mobile native integrations using Flutter method channels, Swift, and Kotlin.  
 Learned Swift and SwiftUI to develop an iOS Share Extension.  
 Developed a WebSockets client using TypeScript.  
+Built a web app using Apollo, GraphQL, and React.  
 
 Worked with GraphQL clients on web, Flutter, Swift.  
 Used Riverpod in Flutter.  
 Worked with Isar, a mobile NoSQL database.  
-Used React, Apollo, GraphQL in the web.  
 Implemented new features behind feature flags.  
 Instrumented mobile device logging and remote error reporting.
 
