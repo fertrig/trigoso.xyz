@@ -49,7 +49,7 @@ Wrote documentation for open source projects and developer tools.
 ### Revenium
 _Lead Software Engineer • December 2025 - Present • [revenium.ai](https://revenium.ai)_
 
-**Built an FinOps analytics dashboard using React, TypeScript, Node.js, and Clickhouse.**  
+**Built an FinOps analytics dashboard using React, TypeScript, Node.js, and ClickHouse.**  
 **Designed a domain-specific query language for AI metrics.**  
 
 Technologies used: React + TypeScript, React Router, Tailwind CSS, Vite   
